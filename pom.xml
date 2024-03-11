@@ -13,7 +13,7 @@
   <name>petclinic</name>
 
   <properties>
-   <sonar.host.url>http://34.125.164.239:9000/</sonar.host.rul>
+   <sonar.host.url>http://34.125.164.239:9000/</sonar.host.url>
    <sonar.login>squ_c5b538de8e89cb549751ea79358161cc0194d0b0</sonar.login>
     <!-- Generic properties -->
     <java.version>1.8</java.version>
